@@ -1,3 +1,7 @@
+"""
+Code modified from https://github.com/abojchevski/node_embedding_attack
+to incorporate additional experiments for VIKING
+"""
 import numba
 import numpy as np
 import scipy.sparse as sp

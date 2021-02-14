@@ -1,3 +1,8 @@
+"""
+Some code in this file borrowed from https://github.com/abojchevski/node_embedding_attack
+Specifically the deepwalk_svd and deepwalk_skipgram version
+Using original node2vec binary for node2vec and line from SNAP
+"""
 import numba
 import numpy as np
 import scipy.sparse as sp

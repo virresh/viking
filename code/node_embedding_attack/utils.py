@@ -1,3 +1,7 @@
+"""
+Code modified from https://github.com/abojchevski/node_embedding_attack
+to incorporate additional experiments for VIKING
+"""
 import warnings
 
 import numpy as np
